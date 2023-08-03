@@ -1,0 +1,16 @@
+{
+  "name": "management-server",
+  "version": "1.0.0",
+  "description": "Management server for camera details",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.3"
+  }
+}
+
